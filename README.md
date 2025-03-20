@@ -5,5 +5,5 @@
 - 💻 I’m currently working as a Frontend Developer.   
 - 📖 I’m currently working with TypeScript and Next Js. 
 - 😄 I’m passionate about Full Stack development and really enjoy working on all aspects of a project from start to finish. My interest mostly lies in the Front End and React, but doing the Back End is something I really enjoy too.
-- 📭 How to reach me: https://www.guillermoalfaro.com/
+
 
